@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken-asp-mvc", "ken-asp-mvc\ken-asp-mvc.csproj", "{66F14EC1-849E-4228-B4DB-CB0B5E219340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken-asp-mvc.Tests", "ken-asp-mvc.Tests\ken-asp-mvc.Tests.csproj", "{86924EA8-6E3C-4EB3-B359-95E122C9BB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F14EC1-849E-4228-B4DB-CB0B5E219340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F14EC1-849E-4228-B4DB-CB0B5E219340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F14EC1-849E-4228-B4DB-CB0B5E219340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F14EC1-849E-4228-B4DB-CB0B5E219340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86924EA8-6E3C-4EB3-B359-95E122C9BB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86924EA8-6E3C-4EB3-B359-95E122C9BB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86924EA8-6E3C-4EB3-B359-95E122C9BB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86924EA8-6E3C-4EB3-B359-95E122C9BB45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
